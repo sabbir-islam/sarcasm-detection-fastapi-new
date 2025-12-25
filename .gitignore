@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+venv/
+
+# Model files (large)
+model/
+
+# OS
+.DS_Store
