@@ -7,3 +7,4 @@ model/
 
 # OS
 .DS_Store
+.vercel
